@@ -1,0 +1,1 @@
+The goal of this project is to create a fintech solution that allows users to ask questions about their financial documents and receive accurate and precise answers. With this solution, any financial document uploaded can be queried using natural language processing techniques and the system will search for the answer within the document.
